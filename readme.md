@@ -1,8 +1,6 @@
 
 
-# Dockerhub Link
-
-https://hub.docker.com/repository/docker/jatamel/is601finalsp24/general
+# The User Management System Final Project: Your Epic Coding Adventure Awaits! 🎉✨🔥
 
 ## Introduction: Buckle Up for the Ride of a Lifetime 🚀🎬
 
